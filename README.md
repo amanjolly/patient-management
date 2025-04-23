@@ -6,3 +6,5 @@ Springboot
 Docker
 Rest API's
 GRPC
+KAFKA
+Spring Cloud Gateway (API Gateway)
